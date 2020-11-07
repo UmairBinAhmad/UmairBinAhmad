@@ -12,4 +12,3 @@
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairBinAhmad&theme=blue-green)
 
 
-<img height="10" width="10">![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)</img>
