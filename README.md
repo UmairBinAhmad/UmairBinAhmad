@@ -11,6 +11,6 @@
 -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmairBinAhmad&show_icons=true&theme=blue-green" alt="UmairBinAhmad" /></p>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairBinAhmad&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairBinAhmad&theme=radical)
 
 
