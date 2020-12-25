@@ -1,8 +1,7 @@
 #### Hi 👋,
 ### I am Umair Bin Ahmad 
 
-- 🌱 Ask me about Computer Vision | AI | Data Science | IoT | Arduino
-- 📫 Reach me: ahmad_umair@outlook.com
+- 🌱 I like to talk about Computer Vision | AI | Data Science | IoT | Arduino
 
 ![](https://img.shields.io/badge/Pro-Level-blue)
 ![](https://komarev.com/ghpvc/?username=UmairBinAhmad)
