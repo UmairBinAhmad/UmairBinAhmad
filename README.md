@@ -9,7 +9,7 @@
 <!--
 [![Umair github stats](https://github-readme-stats.vercel.app/api?username=UmairBinAhmad&theme=blue-green&show_icons=true&count_private=true")
 -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmairBinAhmad&show_icons=true&theme=blue-green" alt="UmairBinAhmad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmairBinAhmad&show_icons=true&theme=blue-green&bg_color=green,blue" alt="UmairBinAhmad" /></p>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairBinAhmad&theme=radical)
 
